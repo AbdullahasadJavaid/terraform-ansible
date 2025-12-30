@@ -1,5 +1,5 @@
 <img width="1024" height="800" alt="terraform+ansible post" src="https://github.com/user-attachments/assets/076cd146-c4e9-4dc6-916f-f521b9bfc3a0" />
-# Terraform & Ansible Nginx Experiment
+## Terraform & Ansible Nginx Experiment
 
 This is a hands-on experiment project where I used **Terraform** to provision AWS EC2 instances and **Ansible** to install and configure **Nginx** on them.  
 
